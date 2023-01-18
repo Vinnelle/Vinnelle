@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![MasterHead](https://monke.academy/banner.png)](https://github.com/Vinnelle)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinnelle&title_color=ffc2fd)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinnelle&title_color=ffc2fd)](https://github-readme-stats-61qdveq2j-fanwangm.vercel.app)
 <!--
 **Vinnelle/Vinnelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
